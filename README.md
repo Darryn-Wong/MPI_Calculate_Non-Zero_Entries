@@ -1,4 +1,6 @@
-This project calculates all the non-zero values in a matrix using MPI. This works with any number of processes.
+# This project calculates all the non-zero values in a matrix using MPI. This works with any number of processes.
+
+# Members: Darryn Wong
 
 To compile:
 mpic++ main.cpp
